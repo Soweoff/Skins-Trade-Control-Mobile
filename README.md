@@ -1,4 +1,4 @@
-# 📦 CS:GO Trade Helper - App Mobile
+# 📦 Skins Trade Control Mobile (itens de CS-GO) - App Mobile
 
 Um app mobile desenvolvido com **React Native + Expo Router**, que ajuda usuários a calcular quanto receberiam vendendo caixas e cápsulas de CS:GO. O projeto também implementa autenticação, proteção de rotas, navegação com parâmetros e uso de ActionSheet para facilitar a navegação entre funcionalidades.
 
