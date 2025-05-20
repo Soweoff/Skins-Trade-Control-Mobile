@@ -2481,7 +2481,7 @@ expo-modules-core@2.3.13:
 
 expo-router@^5.0.7:
   version "5.0.7"
-  resolved "https://registry.npmjs.org/expo-router/-/expo-router-5.0.7.tgz"
+  resolved "https://registry.yarnpkg.com/expo-router/-/expo-router-5.0.7.tgz#032c1de9d06237664169959f7178a818d7b0e677"
   integrity sha512-NlEgRXCKtseDuIHBp87UfkvqsuVrc0MYG+zg33dopaN6wik4RkrWWxUYdNPHub0s/7qMye6zZBY4ZCrXwd/xpA==
   dependencies:
     "@expo/metro-runtime" "5.0.4"
