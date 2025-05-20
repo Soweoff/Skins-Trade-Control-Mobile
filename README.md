@@ -88,9 +88,15 @@ yarn install
 yarn web --clear
 
 
-# Prints da Tela
-<img src="https://res.cloudinary.com/dvqbwddan/image/upload/v1747716641/projeto%20SKT/GITHUB%20dispositivos%20moveis/xnethrxyabow8fyqkjm1.png" alt="Logo da Minha Empresa">
 
+
+🙋‍♂️ Autor
+
+Desenvolvido por Everton Souza Wience (Sowe)
+[Linktree](https://linktr.ee/Soweoff)
+```
+# Prints da Tela
+![Tela 1](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716641/projeto%20SKT/GITHUB%20dispositivos%20moveis/xnethrxyabow8fyqkjm1.png)
 ![Tela 2](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/tgfojlxglutwtcbela5y.png)
 ![Tela 3](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/dsz3yox2yqlwrxnn5xoy.png)
 ![Tela 4](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/alt0dekyrv8u5yjereqk.png)
@@ -104,9 +110,4 @@ yarn web --clear
 ![Tela 12](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/sgtgk2cpsaiqv3puqsif.png)
 ![Tela 13](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/yavk5ecxh0wyq4lilrby.png)
 
-
-🙋‍♂️ Autor
-
-Desenvolvido por Everton Souza Wience (Sowe)
-[Linktree](https://linktr.ee/Soweoff)
 
