@@ -1,7 +1,15 @@
 import { useContext, useState } from "react";
-import { View, TextInput, Button, Text, StyleSheet } from "react-native";
+import {
+  View,
+  TextInput,
+  Button,
+  Text,
+  StyleSheet,
+  ScrollView,
+} from "react-native";
 import { AuthContext } from "../context/AuthContext";
-import { useRouter } from "expo-router";
+import { useRouter, Stack } from "expo-router";
+import Header from "../components/Header";
 
 export default function Login() {
   const { login } = useContext(AuthContext);
@@ -9,37 +17,72 @@ export default function Login() {
   const [senha, setSenha] = useState("");
   const router = useRouter();
 
-  const handleLogin = () => {
-    const sucesso = login(email, senha);
-    if (sucesso) router.push("/calculadora");
-    else alert("Credenciais inválidas");
+  const handleLogin = async () => {
+    const sucesso = await login(email, senha);
+    if (sucesso) {
+      router.replace("/calculadora");
+    } else {
+      alert("Credenciais inválidas");
+    }
   };
 
   return (
     <View style={styles.container}>
-      <TextInput
-        placeholder="Email"
-        value={email}
-        onChangeText={setEmail}
-        style={styles.input}
-      />
-      <TextInput
-        placeholder="Senha"
-        secureTextEntry
-        value={senha}
-        onChangeText={setSenha}
-        style={styles.input}
-      />
-      <Button title="Entrar" onPress={handleLogin} />
-      <Text onPress={() => router.push("/register")} style={styles.link}>
-        Criar conta
-      </Text>
+      <Stack.Screen options={{ headerShown: false }} />
+
+      <ScrollView contentContainerStyle={styles.content}>
+        <TextInput
+          placeholder="Email"
+          value={email}
+          onChangeText={setEmail}
+          style={styles.input}
+          autoCapitalize="none"
+          keyboardType="email-address"
+        />
+        <TextInput
+          placeholder="Senha"
+          secureTextEntry
+          value={senha}
+          onChangeText={setSenha}
+          style={styles.input}
+        />
+        <Button title="Entrar" onPress={handleLogin} />
+        <Text onPress={() => router.push("/register")} style={styles.link}>
+          Criar conta
+        </Text>
+      </ScrollView>
+
+      <View style={styles.footer}>
+        <Header />
+      </View>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 16 },
-  input: { borderWidth: 1, borderColor: "#ccc", marginBottom: 12, padding: 8 },
-  link: { marginTop: 12, color: "blue", textAlign: "center" },
+  container: {
+    flex: 1,
+    backgroundColor: "#f5f5f5",
+  },
+  content: {
+    padding: 16,
+    paddingBottom: 100,
+  },
+  input: {
+    borderWidth: 1,
+    borderColor: "#ccc",
+    marginBottom: 12,
+    padding: 8,
+    borderRadius: 4,
+  },
+  link: {
+    marginTop: 12,
+    color: "blue",
+    textAlign: "center",
+  },
+  footer: {
+    position: "absolute",
+    bottom: 0,
+    width: "100%",
+  },
 });

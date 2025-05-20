@@ -2,14 +2,12 @@ import React from "react";
 import { View, StyleSheet } from "react-native";
 import { AuthProvider } from "../context/AuthContext";
 import Header from "../components/Header";
+import { Stack } from "expo-router";
 
-export default function Layout({ children }: { children: React.ReactNode }) {
+export default function Layout() {
   return (
     <AuthProvider>
-      <View style={styles.container}>
-        <Header />
-        {children}
-      </View>
+      <Stack />
     </AuthProvider>
   );
 }

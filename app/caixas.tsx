@@ -9,10 +9,17 @@ export default function Caixas() {
     <FlatList
       data={caixas}
       keyExtractor={(item) => item.id.toString()}
-      renderItem={({ item }) => <Card title={item.nome} image={item.url} />}
+      renderItem={({ item }) => (
+        <Card
+          nome={item.nome ?? ""}
+          preco={item.preco}
+          imagem={item.imagem ?? ""}
+        />
+      )}
     />
   );
 }
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,

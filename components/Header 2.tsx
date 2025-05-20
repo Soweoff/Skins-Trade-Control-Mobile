@@ -4,7 +4,7 @@ import { Link, usePathname } from "expo-router";
 
 const tabs = [
   { label: "Containers", href: "/Itens/containers" },
-  { label: "logout", href: "/" },
+  { label: "Login", href: "/login" },
 ];
 export default function Header() {
   const pathname = usePathname();

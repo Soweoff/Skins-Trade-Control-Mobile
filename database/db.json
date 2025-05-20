@@ -5,210 +5,210 @@
       "nome": "Gallery Case",
       "preco": 5.35,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Gallery%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511851/projeto%20SKT/case/Gallery%20Case.png.png"
     },
     {
       "id": 2,
       "nome": "Kilowatt Case",
       "preco": 18.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Killowatt%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511829/projeto%20SKT/case/Killowatt%20Case.png.png"
     },
     {
       "id": 3,
       "nome": "Revolution Case",
       "preco": 1.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Revolution%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Revolution%20Case.png.png"
     },
     {
       "id": 4,
       "nome": "Recoil Case",
       "preco": 1.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Recoil%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Recoil%20Case.png.png"
     },
     {
       "id": 5,
       "nome": "Dreams & Nightmares Case",
       "preco": 3.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Dreams%20e%20Nightmares%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511849/projeto%20SKT/case/Dreams%20e%20Nightmares%20Case.png.png"
     },
     {
       "id": 6,
       "nome": "Snakebite Case",
       "preco": 1.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Snakebite%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511813/projeto%20SKT/case/Snakebite%20Case.png.png"
     },
     {
       "id": 7,
       "nome": "Operation Riptide Case",
       "preco": 24.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Riptide%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511832/projeto%20SKT/case/Operation%20Riptide%20Case.png.png"
     },
     {
       "id": 8,
       "nome": "Fracture Case",
       "preco": 1.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Fracture%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511851/projeto%20SKT/case/Fracture%20Case.png.png"
     },
     {
       "id": 9,
       "nome": "Operation Broken Fang Case",
       "preco": 21.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Broken%20Fang%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511830/projeto%20SKT/case/Operation%20Broken%20Fang%20Case.png.png"
     },
     {
       "id": 10,
       "nome": "Prisma 2 Case",
       "preco": 3.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Prisma%202%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Prisma%202%20Case.png.png"
     },
     {
       "id": 11,
       "nome": "Prisma Case",
       "preco": 3.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Prisma%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Prisma%20Case.png.png"
     },
     {
       "id": 12,
       "nome": "CS20 Case",
       "preco": 3.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/CS20%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511848/projeto%20SKT/case/CS20%20Case.png.png"
     },
     {
       "id": 13,
       "nome": "Shattered Web Case",
       "preco": 18.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Shattered%20Web%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Shattered%20Web%20Case.png.png"
     },
     {
       "id": 14,
       "nome": "Danger Zone Case",
       "preco": 3.75,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Danger%20Zone%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511849/projeto%20SKT/case/Danger%20Zone%20Case.png.png"
     },
     {
       "id": 15,
       "nome": "Horizon Case",
       "preco": 3.75,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Horizon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511829/projeto%20SKT/case/Horizon%20Case.png.png"
     },
     {
       "id": 16,
       "nome": "Clutch Case",
       "preco": 2.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Clutch%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511847/projeto%20SKT/case/Clutch%20Case.png.png"
     },
     {
       "id": 17,
       "nome": "Spectrum Case",
       "preco": 12.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Spectrum%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511814/projeto%20SKT/case/Spectrum%20Case.png.png"
     },
     {
       "id": 18,
       "nome": "Spectrum 2 Case",
       "preco": 8.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Spectrum%202%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511813/projeto%20SKT/case/Spectrum%202%20Case.png.png"
     },
     {
       "id": 19,
       "nome": "Operation Hydra Case",
       "preco": 81.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Hydra%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511830/projeto%20SKT/case/Operation%20Hydra%20Case.png.png"
     },
     {
       "id": 20,
       "nome": "Chroma 3 Case",
       "preco": 9.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Chroma%203%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511846/projeto%20SKT/case/Chroma%203%20Case.png.png"
     },
     {
       "id": 21,
       "nome": "Gamma Case",
       "preco": 10.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Gamma%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511828/projeto%20SKT/case/Gamma%20Case.png.png"
     },
     {
       "id": 22,
       "nome": "Gamma 2 Case",
       "preco": 10.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Gamma%202%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511828/projeto%20SKT/case/Gamma%202%20Case.png.png"
     },
     {
       "id": 23,
       "nome": "Glove Case",
       "preco": 25.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Glove%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511828/projeto%20SKT/case/Glove%20Case.png.png"
     },
     {
       "id": 24,
       "nome": "Chroma Case",
       "preco": 13.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Chroma%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511846/projeto%20SKT/case/Chroma%20Case.png.png"
     },
     {
       "id": 25,
       "nome": "Chroma 2 Case",
       "preco": 10.75,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Chroma%202%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511846/projeto%20SKT/case/Chroma%202%20Case.png.png"
     },
     {
       "id": 26,
       "nome": "Falchion Case",
       "preco": 4.75,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Falchion%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511851/projeto%20SKT/case/Falchion%20Case.png.png"
     },
     {
       "id": 27,
       "nome": "Shadow Case",
       "preco": 4.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Shadow%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Shadow%20Case.png.png"
     },
     {
       "id": 28,
       "nome": "Revolver Case",
       "preco": 9.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Revolver%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511812/projeto%20SKT/case/Revolver%20Case.png.png"
     },
     {
       "id": 29,
       "nome": "Operation Phoenix Case",
       "preco": 14.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Phoenix%20Weapon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511830/projeto%20SKT/case/Operation%20Phoenix%20Weapon%20Case.png.png"
     },
     {
       "id": 30,
       "nome": "Huntsman Case",
       "preco": 40.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Huntsman%20Weapon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511829/projeto%20SKT/case/Huntsman%20Weapon%20Case.png.png"
     },
     {
       "id": 31,
@@ -222,327 +222,357 @@
       "nome": "eSports 2014 Summer Case",
       "preco": 38.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/eSports%202014%20Summer%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511850/projeto%20SKT/case/eSports%202014%20Summer%20Case.png.png"
     },
     {
       "id": 33,
       "nome": "Operation Vanguard Case",
       "preco": 12.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Vanguard%20Weapon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511811/projeto%20SKT/case/Operation%20Vanguard%20Weapon%20Case.png.png"
     },
     {
       "id": 34,
       "nome": "CS Weapon Case 3",
       "preco": 32.75,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/CS_GO%20Weapon%20Case%203.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511848/projeto%20SKT/case/CS_GO%20Weapon%20Case%203.png.png"
     },
     {
       "id": 35,
       "nome": "Winter Offensive Case",
       "preco": 24.25,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Winter%20Offensive%20Weapon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511804/projeto%20SKT/case/Winter%20Offensive%20Weapon%20Case.png.png"
     },
     {
       "id": 36,
       "nome": "Operation Bravo Case",
       "preco": 190.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/Operation%20Bravo%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511830/projeto%20SKT/case/Operation%20Bravo%20Case.png.png"
     },
     {
       "id": 37,
       "nome": "CS Weapon Case 2",
       "preco": 57.5,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/CS_GO%20Weapon%20Case%202.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511848/projeto%20SKT/case/CS_GO%20Weapon%20Case%202.png.png"
     },
     {
       "id": 38,
       "nome": "eSports 2013 Winter Case",
       "preco": 40.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/eSports%202013%20Winter%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511850/projeto%20SKT/case/eSports%202013%20Winter%20Case.png.png"
     },
     {
       "id": 39,
       "nome": "eSports 2013 Case",
       "preco": 205.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/eSports%202013%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511850/projeto%20SKT/case/eSports%202013%20Case.png.png"
     },
     {
       "id": 40,
       "nome": "CS Weapon Case",
       "preco": 400.0,
       "tipo": "caixa",
-      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/f_auto,q_auto/v1/projeto%20SKT/case/CS_GO%20Weapon%20Case.png"
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747511848/projeto%20SKT/case/CS_GO%20Weapon%20Case.png.png"
     },
     {
       "id": 41,
       "nome": "Ambush Sticker Capsule",
       "preco": 3.8,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522387/projeto%20SKT/capsule/Ambush%20Sticker%20Capsule.png.png"
     },
     {
       "id": 42,
       "nome": "Espionage Sticker Capsule",
       "preco": 2.75,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522399/projeto%20SKT/capsule/Espionage%20Sticker%20Capsule.png.png"
     },
     {
       "id": 43,
       "nome": "10 Year Birthday Sticker Capsule",
       "preco": 3.55,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522386/projeto%20SKT/capsule/10%20Year%20Birthday%20Sticker%20Capsule.png.png"
     },
     {
       "id": 44,
       "nome": "The Boardroom Sticker Capsule",
       "preco": 4.05,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522338/projeto%20SKT/capsule/The%20Boardroom%20Sticker%20Capsule.png.png"
     },
     {
       "id": 45,
       "nome": "2021 Community Sticker Capsule",
       "preco": 4.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522387/projeto%20SKT/capsule/2021%20Community%20Sticker%20Capsule.png.png"
     },
     {
       "id": 46,
       "nome": "Poorly Drawn Capsule",
       "preco": 3.6,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522406/projeto%20SKT/capsule/Poorly%20Drawn%20Capsule.png.png"
     },
     {
       "id": 47,
       "nome": "Warhammer 40,000 Sticker Capsule",
       "preco": 4.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522338/projeto%20SKT/capsule/Warhammer%2040%2C000%20Sticker%20Capsule.png.png"
     },
     {
       "id": 48,
       "nome": "Half-Life: Alyx Sticker Capsule",
       "preco": 3.95,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522400/projeto%20SKT/capsule/Half-Life_%20Alyx%20Sticker%20Capsule.png.png"
     },
     {
       "id": 49,
       "nome": "Halo Capsule",
       "preco": 3.25,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522401/projeto%20SKT/capsule/Halo%20Capsule.png.png"
     },
     {
       "id": 50,
       "nome": "CS20 Sticker Capsule",
       "preco": 2.95,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522396/projeto%20SKT/capsule/CS20%20Sticker%20Capsule.png.png"
     },
     {
       "id": 51,
       "nome": "Chicken Capsule",
       "preco": 3.4,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522393/projeto%20SKT/capsule/Chicken%20Capsule.png.png"
     },
     {
       "id": 52,
       "nome": "Feral Predators Capsule",
       "preco": 3.7,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522399/projeto%20SKT/capsule/Feral%20Predators%20Capsule.png.png"
     },
     {
       "id": 53,
       "nome": "Skill Groups Capsule",
       "preco": 4.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522408/projeto%20SKT/capsule/Skill%20Groups%20Capsule.png.png"
     },
     {
       "id": 54,
       "nome": "Perfect World Sticker Capsule 1",
       "preco": 4.05,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522404/projeto%20SKT/capsule/Perfect%20World%20Sticker%20Capsule%201.png.png"
     },
     {
       "id": 55,
       "nome": "Perfect World Sticker Capsule 2",
       "preco": 3.8,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522405/projeto%20SKT/capsule/Perfect%20World%20Sticker%20Capsule%202.png.png"
     },
     {
       "id": 56,
       "nome": "Bestiary Capsule",
       "preco": 4.15,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522391/projeto%20SKT/capsule/Bestiary%20Capsule.png.png"
     },
     {
       "id": 57,
       "nome": "Sugarface Capsule",
       "preco": 3.9,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522338/projeto%20SKT/capsule/Sugarface%20Capsule.png.png"
     },
     {
       "id": 58,
       "nome": "Pinups Capsule",
       "preco": 4.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522405/projeto%20SKT/capsule/Pinups%20Capsule.png.png"
     },
     {
       "id": 59,
       "nome": "Slid3 Capsule",
       "preco": 4.1,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522408/projeto%20SKT/capsule/Slid3%20Capsule.png.png"
     },
     {
       "id": 60,
       "nome": "Team Roles Capsule",
       "preco": 4.45,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522338/projeto%20SKT/capsule/Team%20Roles%20Capsule.png.png"
     },
     {
       "id": 61,
       "nome": "Enfu Sticker Capsule",
       "preco": 4.3,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522398/projeto%20SKT/capsule/Enfu%20Sticker%20Capsule.png.png"
     },
     {
       "id": 62,
       "nome": "Community Sticker Capsule 1",
       "preco": 8.1,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522394/projeto%20SKT/capsule/Community%20Sticker%20Capsule%201.png.png"
     },
     {
       "id": 63,
       "nome": "Sticker Capsule 2",
       "preco": 54.15,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522409/projeto%20SKT/capsule/Sticker%20Capsule%202.png.png"
     },
     {
       "id": 64,
       "nome": "Sticker Capsule",
       "preco": 2.1,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522409/projeto%20SKT/capsule/Sticker%20Capsule.png.png"
     },
     {
       "id": 65,
       "nome": "Paris 2023 Challengers Sticker Capsule",
       "preco": 0.3,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522404/projeto%20SKT/capsule/Paris%202023%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 66,
       "nome": "Paris 2023 Contenders Sticker Capsule",
       "preco": 0.35,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522404/projeto%20SKT/capsule/Paris%202023%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 67,
       "nome": "Paris 2023 Legends Sticker Capsule",
       "preco": 0.25,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522404/projeto%20SKT/capsule/Paris%202023%20Legends%20Sticker%20Capsule.png.png"
     },
     {
       "id": 68,
       "nome": "Rio 2022 Challengers Sticker Capsule",
       "preco": 1.15,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522406/projeto%20SKT/capsule/Rio%202022%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 69,
       "nome": "Rio 2022 Contenders Sticker Capsule",
       "preco": 1.3,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522406/projeto%20SKT/capsule/Rio%202022%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 70,
       "nome": "Rio 2022 Legends Sticker Capsule",
       "preco": 1.45,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522406/projeto%20SKT/capsule/Rio%202022%20Legends%20Sticker%20Capsule.png.png"
     },
     {
       "id": 71,
       "nome": "Antwerp 2022 Challengers Sticker Capsule",
       "preco": 0.95,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522387/projeto%20SKT/capsule/Antwerp%202022%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 72,
       "nome": "Antwerp 2022 Contenders Sticker Capsule",
       "preco": 1.45,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522387/projeto%20SKT/capsule/Antwerp%202022%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 73,
       "nome": "Antwerp 2022 Legends Sticker Capsule",
       "preco": 1.2,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522387/projeto%20SKT/capsule/Antwerp%202022%20Legends%20Sticker%20Capsule.png.png"
     },
     {
       "id": 74,
       "nome": "Stockholm 2021 Challengers Sticker Capsule",
       "preco": 9.55,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522409/projeto%20SKT/capsule/Stockholm%202021%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 75,
       "nome": "Stockholm 2021 Contenders Sticker Capsule",
       "preco": 8.45,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522410/projeto%20SKT/capsule/Stockholm%202021%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 76,
       "nome": "Stockholm 2021 Legends Sticker Capsule",
       "preco": 3.1,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522410/projeto%20SKT/capsule/Stockholm%202021%20Legends%20Sticker%20Capsule.png.png"
     },
     {
       "id": 77,
       "nome": "Copenhagen 2024 Challengers Sticker Capsule",
       "preco": 0.85,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522394/projeto%20SKT/capsule/Copenhagen%202024%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 78,
       "nome": "Copenhagen 2024 Contenders Sticker Capsule",
       "preco": 0.9,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522395/projeto%20SKT/capsule/Copenhagen%202024%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 79,
       "nome": "Copenhagen 2024 Legends Sticker Capsule",
       "preco": 0.95,
-      "tipo": "capsula"
-    },
-    {
-      "id": 80,
-      "nome": "Copenhagen 2024 Champions Sticker Capsule",
-      "preco": 1.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522395/projeto%20SKT/capsule/Copenhagen%202024%20Legends%20Sticker%20Capsule.png.png"
     },
     {
       "id": 81,
       "nome": "Shanghai 2024 Challengers Sticker Capsule",
       "preco": 0.85,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522407/projeto%20SKT/capsule/Shanghai%202024%20Challengers%20Sticker%20Capsule.png.png"
     },
     {
       "id": 82,
       "nome": "Shanghai 2024 Contenders Sticker Capsule",
       "preco": 0.9,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522408/projeto%20SKT/capsule/Shanghai%202024%20Contenders%20Sticker%20Capsule.png.png"
     },
     {
       "id": 83,
       "nome": "Shanghai 2024 Legends Sticker Capsule",
       "preco": 0.95,
-      "tipo": "capsula"
-    },
-    {
-      "id": 84,
-      "nome": "Shanghai 2024 Champions Sticker Capsule",
-      "preco": 1.0,
-      "tipo": "capsula"
+      "tipo": "capsula",
+      "imagem": "https://res.cloudinary.com/dvqbwddan/image/upload/v1747522408/projeto%20SKT/capsule/Shanghai%202024%20Legends%20Sticker%20Capsule.png.png"
     }
   ]
 }

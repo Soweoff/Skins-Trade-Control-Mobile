@@ -9,8 +9,9 @@ export default function Capsulas() {
     <FlatList
       data={capsulas}
       keyExtractor={(item) => item.id.toString()}
-      renderItem={({ item }) => <Card nome={item.nome} url={item.url} />}
-      // ...existing code...
+      renderItem={({ item }) => (
+        <Card nome={item.nome} preco={item.preco} imagem={item.imagem ?? ""} />
+      )}
     />
   );
 }
