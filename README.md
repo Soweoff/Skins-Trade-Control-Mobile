@@ -88,20 +88,22 @@ npm install
 npx expo start
 
 
-Prints da Tela
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716641/projeto%20SKT/GITHUB%20dispositivos%20moveis/xnethrxyabow8fyqkjm1.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/tgfojlxglutwtcbela5y.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/dsz3yox2yqlwrxnn5xoy.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/alt0dekyrv8u5yjereqk.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/dpgjfbripyko0pqosdos.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/wqhzykobneytiqgdq7db.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/mgbznixj5oqa76btjzu4.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/ctvzrloytquj8apcuw0q.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/uuo2pdbvqrtiqwx7kkel.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/qju6gdf25tie65om4arq.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/z72yyafj6mbu1b5ihzhy.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/sgtgk2cpsaiqv3puqsif.png)
-![Alt text] (https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/yavk5ecxh0wyq4lilrby.png)
+# Prints da Tela
+
+![Tela 1](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716641/projeto%20SKT/GITHUB%20dispositivos%20moveis/xnethrxyabow8fyqkjm1.png)
+![Tela 2](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/tgfojlxglutwtcbela5y.png)
+![Tela 3](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/dsz3yox2yqlwrxnn5xoy.png)
+![Tela 4](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/alt0dekyrv8u5yjereqk.png)
+![Tela 5](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/dpgjfbripyko0pqosdos.png)
+![Tela 6](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/wqhzykobneytiqgdq7db.png)
+![Tela 7](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716640/projeto%20SKT/GITHUB%20dispositivos%20moveis/mgbznixj5oqa76btjzu4.png)
+![Tela 8](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/ctvzrloytquj8apcuw0q.png)
+![Tela 9](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/uuo2pdbvqrtiqwx7kkel.png)
+![Tela 10](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/qju6gdf25tie65om4arq.png)
+![Tela 11](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/z72yyafj6mbu1b5ihzhy.png)
+![Tela 12](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/sgtgk2cpsaiqv3puqsif.png)
+![Tela 13](https://res.cloudinary.com/dvqbwddan/image/upload/v1747716639/projeto%20SKT/GITHUB%20dispositivos%20moveis/yavk5ecxh0wyq4lilrby.png)
+
 
 🙋‍♂️ Autor
 
