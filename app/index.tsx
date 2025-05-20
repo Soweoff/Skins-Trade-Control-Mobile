@@ -20,10 +20,6 @@ export default function Home() {
           abaixo sem precisar se registrar.
         </Text>
       </View>
-
-      <View style={styles.footer}>
-        <Header />
-      </View>
     </View>
   );
 }
@@ -50,10 +46,5 @@ const styles = StyleSheet.create({
     textAlign: "center",
     marginBottom: 12,
     color: "#333",
-  },
-  footer: {
-    position: "absolute",
-    bottom: 0,
-    width: "100%",
   },
 });

@@ -1,13 +1,19 @@
-import React from "react";
-import { View, StyleSheet } from "react-native";
+// /app/_layout.tsx
+import { Slot } from "expo-router";
+import { ActionSheetProvider } from "@expo/react-native-action-sheet";
 import { AuthProvider } from "../context/AuthContext";
-import Header from "../components/Header";
-import { Stack } from "expo-router";
+import HeaderSwitcher from "../components/HeaderSwitcher";
+import { View, StyleSheet } from "react-native";
 
 export default function Layout() {
   return (
     <AuthProvider>
-      <Stack />
+      <ActionSheetProvider>
+        <View style={styles.container}>
+          <Slot />
+          <HeaderSwitcher />
+        </View>
+      </ActionSheetProvider>
     </AuthProvider>
   );
 }
@@ -15,5 +21,6 @@ export default function Layout() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    justifyContent: "space-between", // empurra o HeaderSwitcher para o fim
   },
 });

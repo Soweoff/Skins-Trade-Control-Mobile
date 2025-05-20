@@ -49,10 +49,6 @@ export default function Register() {
         />
         <Button title="Registrar" onPress={handleRegister} />
       </ScrollView>
-
-      <View style={styles.footer}>
-        <Header />
-      </View>
     </View>
   );
 }
@@ -72,10 +68,5 @@ const styles = StyleSheet.create({
     marginBottom: 12,
     padding: 8,
     borderRadius: 4,
-  },
-  footer: {
-    position: "absolute",
-    bottom: 0,
-    width: "100%",
   },
 });

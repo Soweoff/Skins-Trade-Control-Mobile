@@ -51,10 +51,6 @@ export default function Login() {
           Criar conta
         </Text>
       </ScrollView>
-
-      <View style={styles.footer}>
-        <Header />
-      </View>
     </View>
   );
 }
@@ -79,10 +75,5 @@ const styles = StyleSheet.create({
     marginTop: 12,
     color: "blue",
     textAlign: "center",
-  },
-  footer: {
-    position: "absolute",
-    bottom: 0,
-    width: "100%",
   },
 });

@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, ScrollView } from "react-native";
 import { useRouter, Stack } from "expo-router";
 import MainCard from "../../components/MainCard";
 import Header from "../../components/Header";
-//vou atualizar meu projeto
+
 export default function Containers() {
   const router = useRouter();
 
@@ -27,10 +27,6 @@ export default function Containers() {
           onPress={() => router.push("capsulas")}
         />
       </ScrollView>
-
-      <View style={styles.footer}>
-        <Header />
-      </View>
     </View>
   );
 }
@@ -48,10 +44,5 @@ const styles = StyleSheet.create({
     fontSize: 22,
     fontWeight: "bold",
     marginBottom: 20,
-  },
-  footer: {
-    position: "absolute",
-    bottom: 0,
-    width: "100%",
   },
 });

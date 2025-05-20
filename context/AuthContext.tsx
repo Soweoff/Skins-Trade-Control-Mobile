@@ -1,3 +1,4 @@
+// /context/AuthContext.tsx
 import React, {
   createContext,
   useState,
@@ -6,6 +7,7 @@ import React, {
   ReactNode,
 } from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+import { useRouter } from "expo-router";
 
 interface AuthContextProps {
   isAuthenticated: boolean;
@@ -21,6 +23,7 @@ export const AuthContext = createContext<AuthContextProps>({
 
 export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     const loadAuthState = async () => {
@@ -48,6 +51,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   const logout = async () => {
     setIsAuthenticated(false);
     await AsyncStorage.setItem("isLoggedIn", "false");
+    router.replace("/login");
   };
 
   return (
@@ -57,5 +61,4 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   );
 };
 
-// Hook personalizado para acessar o contexto
 export const useAuth = () => useContext(AuthContext);

@@ -50,10 +50,6 @@ export default function Calculadora() {
           <Text style={styles.total}>Total no PIX: R$ {total.toFixed(2)}</Text>
         )}
       </ScrollView>
-
-      <View style={styles.footer}>
-        <Header />
-      </View>
     </View>
   );
 }
@@ -84,10 +80,5 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 18,
     textAlign: "center",
-  },
-  footer: {
-    position: "absolute",
-    bottom: 0,
-    width: "100%",
   },
 });
