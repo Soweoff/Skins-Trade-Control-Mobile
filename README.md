@@ -82,10 +82,10 @@ git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 
 # 3. Instale as dependências
-npm install
+yarn install
 
 # 4. Inicie o projeto
-npx expo start
+yarn web --clear
 
 
 # Prints da Tela
